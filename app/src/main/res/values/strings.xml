@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVMNewsApp</string>
+    <string name="strMenuBreaking">Breaking News</string>
+    <string name="strMenuSaved">Saved News</string>
+    <string name="strMenuSearchNews">Search News</string>
+</resources>
